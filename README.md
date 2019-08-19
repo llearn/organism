@@ -1,1 +1,6 @@
-# organism-test
+# organism
+
+
+`go build .`
+
+
